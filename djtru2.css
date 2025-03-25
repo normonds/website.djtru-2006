@@ -1,0 +1,63 @@
+body{
+	background:url(img2/page.back.jpg) #263133;
+	color:#FFFFFF;
+	font-family:Tahoma,Geneva,Arial,Helvetica,sans-serif;
+	font-size:12px;
+	margin:0;
+	padding:0;
+}
+img{border:0;}
+h1, h2, h3, .date {font-weight:normal;margin:0;padding:0;font-family:Trebuchet MS, Arial,sans-serif;font-size:19px;}
+h2 {letter-spacing: -1px;}
+/*div,ul,li{border:1px solid #FF00FF;}/**/
+li,ul{padding:0;}
+a{color:#FFFFFF;}
+a.selected {background:#FFFFFF;}
+a:hover{background:#FFFFFF;color:#3F445E;}
+a:visited { color:#bbb;}
+ul{list-style-type:none;}
+p{margin:3px 0 10px;}
+.line{margin:2px 0 4px 0;border-bottom: 1px solid #B4ADA7;}
+
+.notice {padding:3px;border:1px solid #FFB149;background-color:green;}
+.dimmed {color: #A483B9;font-weight:normal;}
+th {text-align: left;}
+.events_table {font-size: 15px;font-family: Trebuchet MS, sans-serif;}
+.tbl_forum td, .tbl_forum th {background-color:#35496E;}
+.forum_date {color:#3A5F94;font-weight:normal;}
+
+#page_wrap {padding: 0 0 6px 0;width:953px;margin:0 auto;background: #3f445e;border-left:6px solid #3f445e;border-right:6px solid #3f445e;}
+#head { background: url(img2/head.ban.jpg);width:953px;height:90px;padding-top:1px; }
+#subscr {margin-top:67px;margin-left:623px;}
+#email {width:60px;font-size:10px;}
+#menu {width:953px;height:32px;}
+#cont { width:100%; float:left;}
+.but {font-size: 10px;}
+
+#col_left {width:481px;margin-right:5px;overflow:hidden;}
+#col_right {width:467px;}
+
+.blue {background-color:#3B537D;}
+.blue .more {background-color: #35496E;}
+.blue .title_comp {background-color:#3A5F94;}
+.pink {background-color:#5D3F7D;}
+.pink .more {background-color:#513969;}
+.pink .title_comp {background-color:#743C95;}
+
+.date {color:#768FB6;font-size:16px;font-weight:bold;}
+.block {padding: 0 6px 6px 6px;margin-bottom:4px;}
+.block img {border:1px solid #2D4A68;margin: 0 4px 4px 0;}
+.block a:hover img {border:1px solid #F00;}
+.more {text-align: right;padding:5px;}
+.more a {color:#768FB6;}
+.title_comp {padding:5px;margin-bottom:4px;}
+.gap {padding-top:1px;}
+.gap .title_comp {margin-top:5px;}
+
+.l{float:left;}
+.r{float:right;}
+.c{clear:both;}
+
+.home_selected {
+	background-image: url('img2/menu.home.over.gif');
+}
