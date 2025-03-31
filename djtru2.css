@@ -31,7 +31,7 @@ th {text-align: left;}
 #subscr {margin-top:67px;margin-left:623px;}
 #email {width:60px;font-size:10px;}
 #menu {width:954px;height:32px;white-space: wrap;}
-#menu > a { display: inline-block;}
+/* #menu > a { display: inline-block;} */
 #cont { width:100%; float:left;}
 .but {font-size: 10px;}
 
